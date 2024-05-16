@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { Alert, Button, FlatList, StyleSheet, Text, TextInput, View, TouchableOpacity, Pressable, Modal } from 'react-native';
 import { useState } from 'react';
-
+//cambios
 let productos = [
   { Anombre: "Doritos", categoria: "Snacks", precioCompra: 0.48, precioVenta: 0.45, id: 100 },
   { Anombre: "Manicho", categoria: "Golosina", precioCompra: 0.20, precioVenta: 0.25, id: 101 },
